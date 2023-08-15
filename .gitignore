@@ -24,16 +24,25 @@ wp-config.php
 /wp-content/themes/twenty*/
 
 # Example plugin
-/wp-content/plugins/hello.php
+/wp-content/plugins/
 
 # Uploads
 /wp-content/uploads/
+
+# Fonts
+/wp-content/fonts/
+
+# Upgrade
+/wp-content/upgrade/
 
 # Log files
 *.log
 
 # htaccess
 /.htaccess
+
+# Idea
+.idea
 
 # All plugins
 #
